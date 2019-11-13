@@ -19,20 +19,28 @@ class RenewalController extends Controller
       if ($request->Item=='car') {
           $id=$request->id;
          $post=Carform::find($id);
+         if(empty($post))
+          return view('renewal');
 
       }
       if ($request->Item=='bike') {
           $id=$request->id;
          $post=Bikeform::find($id);
+         if(empty($post))
+          return view('renewal');
 
       }
       if ($request->Item=='mobile') {
           $id=$request->id;
          $post=Mobileform::find($id);
+         if(empty($post))
+          return view('renewal');
       }
       if ($request->Item=='laptop') {
           $id=$request->id;
          $post=Laptopform::find($id);
+         if(empty($post))
+          return view('renewal');
 
       }
      return view('renewalpolicy')->withPost($post);
