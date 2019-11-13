@@ -40,14 +40,14 @@
             <div class="col-sm-7">
                 <div class="content-list">
                     <div class="title-wrap">
-                        <h2 class="h2-v2">What’s great about Mobile Insurance ?</h2>
+                        <h2 class="h2-v2">What’s great about Laptop Insurance ?</h2>
                     </div>
                 </div>
                 <div class="content-list">
                     <div>
                             <ul class="list-menu list-menu--check">
                                       <li class="list-menu__item">
-                               <b>New &amp; Used phones</b> - Now mobile insurance for brand new phones as well as old/used ones.
+                               <b>New &amp; Used Laptops</b> - Now Laptop insurance for brand new Laptops as well as old/used ones.
                             </li>
 
                                       <li class="list-menu__item">
@@ -55,15 +55,15 @@
                             </li>
 
                                       <li class="list-menu__item">
-                               <b>Low prices</b> - Buy this mobile insurance cover at almost the cost of a Screen Guard!
+                               <b>Low prices</b> - Buy this laptop insurance cover at almost the cost of a Screen Guard!
                             </li>
 
                                       <li class="list-menu__item">
-                               <b>Worldwide cover</b> - Travel around the world worry-free. Our mobile insurance policy is valid everywhere.
+                               <b>Worldwide cover</b> - Travel around the world worry-free. Our laptop insurance policy is valid everywhere.
                             </li>
 
                                       <li class="list-menu__item">
-                               <b>IMEI linked cover</b> - Whether you use the phone or your family or friend does, this mobile insurance policy will be valid for all. It is linked to the IMEI of the phone &amp; not the user.
+                               <b>Model No. linked cover</b> - Whether you use the laptop or your family or friend does, this laptop insurance policy will be valid for all. It is linked to the model no. of the laptop &amp; not the user.
                             </li>
 
                                       <li class="list-menu__item">

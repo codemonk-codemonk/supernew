@@ -50,7 +50,7 @@ mysqli_query($link, $sqltwo);
 mysqli_close($link);
 ?>
 
-  <form action=" {{ url('/transfer') }} " id="search-theme-formthree"  >
+  <form action=" {{ url('/') }} " id="search-theme-formthree"  >
    {{csrf_field()}}
 
 

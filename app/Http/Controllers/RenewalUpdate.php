@@ -112,8 +112,9 @@ class RenewalUpdate extends Controller
 
       $users->end=$date;
       $users->update();
-    }
 
+    }
+    return redirect('/calldone');
   }
 
 

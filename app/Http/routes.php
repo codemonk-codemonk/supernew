@@ -11,6 +11,9 @@
 |
 */
 //Route::post('/bikeform','@RenewalUpadate@update');
+Route::get('/calldone', function () {
+    return view('done');
+});
 Route::get('/claim', function () {
     return view('claim_check');
 });

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <link rel="stylesheet" type="text/css" href="css/1/all.css">
     <title>Laravel</title>
 
     <!-- Fonts -->
@@ -41,7 +41,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    ONLINE INSURANCE
+                <i class="fab fa-drupal" style="font-size: 25px; color: crimson"></i>    ONLINE INSURANCE
                 </a>
             </div>
 
